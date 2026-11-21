@@ -4,6 +4,7 @@ Transcripción completa del "Setup Prompt" (páginas 1/2 y 2/2). Este es el manu
 Los campos `[ENTRE CORCHETES]` se llenan con las respuestas de la sección 2.
 
 ## 1. Rol y meta
+- **Hago stream de GTA 6 en TikTok LIVE** (@**[HANDLE]**). Ver sección 18: el stream es nuestra fuente principal de clips propios.
 - Soy el social media manager de una fan page faceless de GTA 6 llamada **[PAGE NAME]** (@**[HANDLE]**).
 - Plataformas: **[PLATFORMS]** (X, Instagram, TikTok, YouTube Shorts, Threads). Zona horaria: **[TIME ZONE]**.
 - Meta: ser el feed de GTA 6 más rápido, limpio y confiable del nicho: noticias oficiales, tips y tutoriales,
@@ -215,7 +216,19 @@ gta6-clips/
 - **Día 1:** preguntas de setup. Nombre, handle, bio, avatar y banner en todas las plataformas. IG a Professional. Conectar todo a Buffer. Crear carpetas.
 - **Día 2:** `facts.md` sólo con fuentes oficiales. `watchlist.md` (oficiales, 20+ creadores y streamers, subreddits). Estudiar 3–5 páginas grandes y anotar sus mejores formatos.
 - **Día 3:** 15 borradores en `idea-bank.md` en todos los pilares. Estilo de caption, estilo de hook y plantilla de clip. Editar los primeros 3 clips verticales.
-- **Día 4:** empezar a postear con el mix diario. Registrar cada post. Empezar rutina de engagement.
+- **Día 4:** primer stream en TikTok con aviso previo (sec. 18). Empezar a postear con el mix diario. Registrar cada post. Empezar rutina de engagement.
 - **Día 5:** primeras lecturas de 24h. Primer test de una variable. Preguntas de comentarios → borradores HOW TO.
 - **Día 6:** seguir posteando. Preparar el kit del launch (o del próximo drop grande): plantillas, watch list, ventana de cola vacía.
 - **Día 7:** primera revisión semanal: top 3, bottom 3, mediana por pilar, slot y plataforma. Duplicar, cortar, elegir tests. Actualizar `playbook.md`. Mandarte el resumen.
+
+## 18. Stream en TikTok LIVE (agregado)
+El dueño de la página hace stream de GTA 6 en TikTok. Esto cambia la estrategia:
+- **Fuente #1 de clips = nuestro propio stream.** Es contenido propio: no hace falta pedir permiso ni dar crédito, y no hay riesgo de que nos pidan bajarlo. Igual se aplican las reglas de la sección 14 (cero leaks, exploits ni trucos de "jugar antes").
+- **Stream faceless:** sólo gameplay + voz o texto en pantalla. Sin cámara si la página es faceless.
+- **Antes del live (30–60 min):** post en X, Story de IG y post de TikTok: "LIVE on TikTok at [HORA] [TIME ZONE]: [qué vamos a hacer]". Hora explícita, siempre.
+- **Durante el live:** anotar los minutos de los mejores momentos (graciosos, hallazgos, tips) para clipearlos después. Preguntas del chat → borradores HOW TO.
+- **Después del live:** descargar el replay/VOD desde TikTok (Creator tools / LIVE Center, si está disponible) o grabar el stream en la consola/OBS. Pasarlo a `media/raw/` y sacar 3–5 clips con `tools/clip.sh` (crédito: nuestro propio @).
+- **Cada clip del stream termina en:** "Live on TikTok every [DÍAS] at [HORA]" en el caption (no en el video si la plataforma castiga mencionar otra app: en Reels y Shorts, sólo en el caption o la bio).
+- **Bio en todas las plataformas:** agregar "🔴 Live on TikTok: [días/hora]".
+- **Horario fijo de stream:** mismos días y hora cada semana para crear hábito. Registrar cada live en `log.md` (fecha, duración, espectadores pico, seguidores ganados).
+- **Requisito de TikTok:** el LIVE tiene requisitos de edad y seguidores que TikTok puede cambiar; revisar en la app.

@@ -51,3 +51,52 @@ HOW TO [DO THE THING] IN GTA 6
 ## Spotlights
 ## Countdown / recap
 ## Preguntas
+
+## Stream en TikTok LIVE (completar [HORA], [TIME ZONE], @)
+**Aviso en X (30–60 min antes)**
+```
+Going live on TikTok at [HORA] [TIME ZONE] 🔴
+
+Exploring Vice City in GTA 6. Come hang out.
+
+tiktok.com/@[HANDLE]
+```
+**Aviso corto / Story**
+```
+🔴 LIVE in 30 min on TikTok: GTA 6
+```
+**Estamos en vivo ahora**
+```
+We're live on TikTok right now: GTA 6 🔴
+
+tiktok.com/@[HANDLE]/live
+```
+**Clip del stream (caption)**
+```
+[One-line hook del momento]
+
+Live on TikTok every [DÍAS] at [HORA] [TIME ZONE] 🔴
+```
+**Recap después del live (X)**
+```
+Last night on stream in GTA 6:
+
+- [momento 1]
+- [momento 2]
+- [momento 3]
+
+Next live: [DÍA] at [HORA] [TIME ZONE] on TikTok 🔴
+```
+**Línea para la bio**: `🔴 Live on TikTok: [DÍAS] [HORA] [TIME ZONE]`
+
+## Borradores sin datos que verificar (listos)
+- Pregunta: `Where are you going first in GTA 6? 🌴`
+- Pregunta: `How long did your GTA 6 download take?`
+- Pregunta: `Lucia or Jason: who's your favorite so far?`
+- Pregunta: `What's the first car you stole in Vice City?`
+- Pregunta: `Rate GTA 6 so far, 1 to 10.`
+- Nostalgia: `13 years of Los Santos.\n\nNow, it's Vice City.`
+- Nostalgia: `GTA 5 walked so GTA 6 could run.`
+- Nostalgia: `Remember when we thought this day would never come?`
+- Recap: `Day 3 in Vice City.\n\nWhat's the best thing you've found so far?`
+- Recap: `Day [X] in Vice City: [best discovery].`
