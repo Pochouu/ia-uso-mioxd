@@ -1,0 +1,4 @@
+media/raw/*.mp4
+media/edits/*.mp4
+media/official/*
+!media/official/.gitkeep
